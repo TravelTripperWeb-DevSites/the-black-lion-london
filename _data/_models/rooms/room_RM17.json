@@ -1,0 +1,141 @@
+{
+  "name_localized": {
+    "en": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE)",
+    "es": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE)"
+  },
+  "short_description_localized": {
+    "en": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE)",
+    "es": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE)"
+  },
+  "description_localized": {
+    "en": "90-sq-foot (8-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;",
+    "es": "90-sq-foot (8-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 1",
+      "file_name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/68575_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-102716",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 35150,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/large_68575_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/medium_68575_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/small_68575_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/xsmall_68575_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102716/thumb_68575_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 2",
+      "file_name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/68578_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-102718",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 29803,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/large_68578_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/medium_68578_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/small_68578_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/xsmall_68578_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102718/thumb_68578_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 3",
+      "file_name": "Single Room, Shared Bathroom (Garden Room 2 - INNACTIVE) Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/68580_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-102721",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 30463,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/large_68580_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/medium_68580_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/small_68580_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/xsmall_68580_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-09-102721/thumb_68580_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    }
+  ],
+  "reztrip_room_id": "RM17",
+  "order": 17
+}

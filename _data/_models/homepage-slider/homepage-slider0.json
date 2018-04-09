@@ -1,8 +1,6 @@
 {
-  "name": "Lead Photo",
+  "name": "hotel_image0",
   "image": {
     "url": "http://d2r4g49zv9n1lp.cloudfront.net/1274/68526_1_master.jpg"
-  },
-  "order": 1,
-  "hidden": false
+  }
 }

@@ -14,5 +14,33 @@ address:
   zip_code: NW62BY
 _hotel_id: THE731
 _portal_id: required-but-empty
-_ttweb_plugins_version: v2
 _root_path: http://rtexpress-qa.ttaws.com/rt
+_ttweb_plugins_version: v2
+default_currency: USD
+default_timezone: America/New_York
+__EDITABLE_FIELDS__:
+  name:
+    required: true
+  email:
+    type: string
+  phone:
+    type: string
+  default_currency:
+    required: true
+  address:
+    type: complex
+    fields:
+      street1:
+        type: string
+      state:
+        type: string
+      city:
+        type: string
+      zip_code:
+        type: string
+  map_zoom:
+    type: integer
+    latitude:
+      type: float
+    longitude:
+      type: float
