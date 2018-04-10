@@ -1,0 +1,160 @@
+{
+  "name_localized": {
+    "en": "Double Room, Private Bathroom",
+    "es": "Double Room, Private Bathroom"
+  },
+  "short_description_localized": {
+    "en": "Double Room, Private Bathroom",
+    "es": "Double Room, Private Bathroom"
+  },
+  "description_localized": {
+    "en": "90-sq-foot (8-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Detached private bathroom, free toiletries, and a shower/tub combination<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;",
+    "es": "90-sq-foot (8-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Detached private bathroom, free toiletries, and a shower/tub combination<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Double Room, Private Bathroom Image 1",
+      "file_name": "Double Room, Private Bathroom Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/68620_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-121213",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 35150,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/large_68620_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/medium_68620_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/small_68620_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/xsmall_68620_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121213/thumb_68620_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Double Room, Private Bathroom Image 2",
+      "file_name": "Double Room, Private Bathroom Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/68622_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-121215",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 41041,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/large_68622_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/medium_68622_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/small_68622_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/xsmall_68622_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121215/thumb_68622_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Double Room, Private Bathroom Image 3",
+      "file_name": "Double Room, Private Bathroom Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/68623_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-121218",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 33778,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/large_68623_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/medium_68623_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/small_68623_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/xsmall_68623_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121218/thumb_68623_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Double Room, Private Bathroom Image 4",
+      "file_name": "Double Room, Private Bathroom Image 4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/68624_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-121220",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 29803,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/large_68624_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/medium_68624_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/small_68624_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/xsmall_68624_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-121220/thumb_68624_1_yankee_large.jpg",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    }
+  ],
+  "reztrip_room_id": "RM11",
+  "order": 11
+}
