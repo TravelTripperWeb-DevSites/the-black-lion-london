@@ -1,0 +1,85 @@
+{
+  "name_localized": {
+    "en": "Single Room - Private Shower",
+    "es": "Single Room - Private Shower"
+  },
+  "short_description_localized": {
+    "en": "Single Room - Private Shower",
+    "es": "Single Room - Private Shower"
+  },
+  "description_localized": {
+    "en": "<b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br />&nbsp;",
+    "es": "<b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM7",
+  "order": 7
+}

@@ -1,0 +1,179 @@
+{
+  "name_localized": {
+    "en": "Executive Double Room, Ensuite",
+    "es": "Executive Double Room, Ensuite"
+  },
+  "short_description_localized": {
+    "en": "Executive Double Room, Ensuite",
+    "es": "Executive Double Room, Ensuite"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed</strong><br />129 sq feet (12 sq meters)<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Desk and iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed</strong><br />129 sq feet (12 sq meters)<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Coffee/tea maker<br /><b>Bathroom</b> - Partially open bathroom, shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Desk and iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Executive Double Room, Ensuite Image 1",
+      "file_name": "Executive Double Room, Ensuite Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/68639_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-172427",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 35429,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/large_68639_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/medium_68639_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/small_68639_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/xsmall_68639_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172427/thumb_68639_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Executive Double Room, Ensuite Image 2",
+      "file_name": "Executive Double Room, Ensuite Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/68640_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-172430",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 31958,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/large_68640_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/medium_68640_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/small_68640_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/xsmall_68640_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172430/thumb_68640_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Executive Double Room, Ensuite Image 3",
+      "file_name": "Executive Double Room, Ensuite Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/68641_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-172432",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 34853,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/large_68641_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/medium_68641_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/small_68641_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/xsmall_68641_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172432/thumb_68641_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Executive Double Room, Ensuite Image 4",
+      "file_name": "Executive Double Room, Ensuite Image 4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/68642_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-172434",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 35574,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/large_68642_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/medium_68642_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/small_68642_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/xsmall_68642_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172434/thumb_68642_1_yankee_large.jpg",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    },
+    {
+      "name": "Executive Double Room, Ensuite Image 5",
+      "file_name": "Executive Double Room, Ensuite Image 5",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/68643_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-172436",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 47721,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/large_68643_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/medium_68643_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/small_68643_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/xsmall_68643_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-172436/thumb_68643_1_yankee_large.jpg",
+      "caption": "Image 5",
+      "alt": "Image 5"
+    }
+  ],
+  "reztrip_room_id": "RM23",
+  "order": 23
+}
