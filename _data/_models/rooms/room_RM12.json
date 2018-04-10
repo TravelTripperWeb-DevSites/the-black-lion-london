@@ -1,0 +1,103 @@
+{
+  "name_localized": {
+    "en": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE)",
+    "es": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE)"
+  },
+  "short_description_localized": {
+    "en": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE)",
+    "es": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE)"
+  },
+  "description_localized": {
+    "en": "120-sq-foot (11-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Refrigerator and coffee/tea maker <br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a separate bathtub and shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;",
+    "es": "120-sq-foot (11-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Digital channels <br /><b>Food & Drink</b> - Refrigerator and coffee/tea maker <br /><b>Bathroom</b> - Partially open bathroom, free toiletries, and a separate bathtub and shower<br /><b>Practical</b> - Iron/ironing board (on request)<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Digital TV service"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Iron/ironing board (on request)"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Partially open bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE) Image 1",
+      "file_name": "Double Room, Shared Bathroom (Garden Flat - INNACTIVE) Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/68555_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-10-162130",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 37086,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/large_68555_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/medium_68555_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/small_68555_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/xsmall_68555_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_157_859/media/2018-04-10-162130/thumb_68555_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    }
+  ],
+  "reztrip_room_id": "RM12",
+  "order": 12
+}
