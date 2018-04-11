@@ -156,5 +156,18 @@
     }
   ],
   "reztrip_room_id": "RM25",
-  "order": 25
+  "order": 0,
+  "featured_image": {
+    "name": "Image 1",
+    "tags": "gallery",
+    "order": 1,
+    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1274/68526_1_master.jpg",
+    "description": "",
+    "caption": "",
+    "alt": "Front",
+    "date_added": "2018-04-09-102539",
+    "git_file_name": "_assets/image_data/image-1.json",
+    "path": "http://d2r4g49zv9n1lp.cloudfront.net/1274/68526_1_master.jpg",
+    "file_size": null
+  }
 }
