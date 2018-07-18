@@ -45,4 +45,4 @@ __EDITABLE_FIELDS__:
     longitude:
       type: float
 id: hotel_settings
-phone: '1231231234'
+phone: '123'
